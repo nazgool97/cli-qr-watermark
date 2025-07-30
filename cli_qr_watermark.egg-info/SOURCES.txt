@@ -1,0 +1,8 @@
+pyproject.toml
+cli_qr_watermark.egg-info/PKG-INFO
+cli_qr_watermark.egg-info/SOURCES.txt
+cli_qr_watermark.egg-info/dependency_links.txt
+cli_qr_watermark.egg-info/entry_points.txt
+cli_qr_watermark.egg-info/requires.txt
+cli_qr_watermark.egg-info/top_level.txt
+qrmark/__main__.py
